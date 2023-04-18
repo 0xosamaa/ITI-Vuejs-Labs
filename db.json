@@ -1,0 +1,103 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Book 1",
+            "category": "Technology",
+            "stock":100,
+            "pages_no":150,
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe tempore beatae qui, impedit deserunt quo aut tempora? Quasi consectetur, sint, doloribus neque ipsa eaque atque doloremque velit sequi, porro nemo!",
+            "price": 1000,
+            "image": "https://picsum.photos/200",
+            "author": "Osama"
+        },
+        {
+            "id": 2,
+            "title": "Book 2",
+            "category": "Technology",
+            "stock":100,
+            "pages_no":150,
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe tempore beatae qui, impedit deserunt quo aut tempora? Quasi consectetur, sint, doloribus neque ipsa eaque atque doloremque velit sequi, porro nemo!",
+            "price": 2000,
+            "image": "https://picsum.photos/200",
+            "author": "Osama"
+        },
+        {
+            "id": 3,
+            "title": "Book 3",
+            "category": "Technology",
+            "stock":100,
+            "pages_no":150,
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe tempore beatae qui, impedit deserunt quo aut tempora? Quasi consectetur, sint, doloribus neque ipsa eaque atque doloremque velit sequi, porro nemo!",
+            "price": 3000,
+            "image": "https://picsum.photos/200",
+            "author": "Osama"
+        },
+        {
+            "id": 4,
+            "title": "Book 4",
+            "category": "Technology",
+            "stock":100,
+            "pages_no":150,
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe tempore beatae qui, impedit deserunt quo aut tempora? Quasi consectetur, sint, doloribus neque ipsa eaque atque doloremque velit sequi, porro nemo!",
+            "price": 4000,
+            "image": "https://picsum.photos/200",
+            "author": "Osama"
+        },
+        {
+            "id": 5,
+            "title": "Book 5",
+            "category": "Technology",
+            "stock":100,
+            "pages_no":150,
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe tempore beatae qui, impedit deserunt quo aut tempora? Quasi consectetur, sint, doloribus neque ipsa eaque atque doloremque velit sequi, porro nemo!",
+            "price": 5000,
+            "image": "https://picsum.photos/200",
+            "author": "Osama"
+        },
+        {
+            "id": 6,
+            "title": "Book 6",
+            "category": "Technology",
+            "stock":100,
+            "pages_no":150,
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe tempore beatae qui, impedit deserunt quo aut tempora? Quasi consectetur, sint, doloribus neque ipsa eaque atque doloremque velit sequi, porro nemo!",
+            "price": 6000,
+            "image": "https://picsum.photos/200",
+            "author": "Osama"
+        },
+        {
+            "id": 7,
+            "title": "Book 7",
+            "category": "Technology",
+            "stock":100,
+            "pages_no":150,
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe tempore beatae qui, impedit deserunt quo aut tempora? Quasi consectetur, sint, doloribus neque ipsa eaque atque doloremque velit sequi, porro nemo!",
+            "price": 7000,
+            "image": "https://picsum.photos/200",
+            "author": "Osama"
+        },
+        {
+            "id": 8,
+            "title": "Book 8",
+            "category": "Technology",
+            "stock":100,
+            "pages_no":150,
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe tempore beatae qui, impedit deserunt quo aut tempora? Quasi consectetur, sint, doloribus neque ipsa eaque atque doloremque velit sequi, porro nemo!",
+            "price": 8000,
+            "image": "https://picsum.photos/200",
+            "author": "Osama"
+        },
+        {
+            "id": 9,
+            "title": "Book 9",
+            "category": "Technology",
+            "stock":100,
+            "pages_no":150,
+            "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe tempore beatae qui, impedit deserunt quo aut tempora? Quasi consectetur, sint, doloribus neque ipsa eaque atque doloremque velit sequi, porro nemo!",
+            "price": 9000,
+            "image": "https://picsum.photos/200",
+            "author": "Osama"
+        }
+    ]
+}
