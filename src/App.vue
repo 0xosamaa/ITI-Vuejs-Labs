@@ -61,6 +61,7 @@
                             <button
                                 @click.once="addToWishlist(book)"
                                 class="btn btn-success"
+                                :disabled="isInWishlist(book)"
                             >
                                 Add to Wishlist
                             </button>
@@ -160,14 +161,15 @@ export default {
             this.isWishlistVisible = !this.isWishlistVisible;
         },
         addToWishlist(book) {
-            const exists = this.wishlist.some((ibook) => ibook.id == book.id);
-            if (exists) return;
+            if (this.isInWishlist(book)) return;
 
             this.wishlist.push(book);
         },
+        isInWishlist(book) {
+            return this.wishlist.some((ibook) => ibook.id == book.id);
+        },
         removeFromWishlist(book) {
-            const exists = this.wishlist.some((ibook) => ibook.id == book.id);
-            if (exists) {
+            if (this.isInWishlist(book)) {
                 this.wishlist = this.wishlist.filter((ibook) => {
                     return ibook.id != book.id;
                 });
