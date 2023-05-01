@@ -1,19 +1,16 @@
-# lab03
+# Lab03
 
-## Project setup
+## Install dependencies
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+## Run json-server
+```
+json-server --watch db.json
+```
+
+### Compile project and run server
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
